@@ -14,7 +14,7 @@ A simple and free chatbot powered by DeepSeek-R1, built using HTML, JavaScript, 
    ```
 2. Navigate to the project folder:
    ```sh
-   cd wsp-chatbot
+   cd chatbot
    ```
 3. Open `chat.html` in your web browser.
 
