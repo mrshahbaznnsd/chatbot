@@ -16,7 +16,7 @@ A simple and free chatbot powered by DeepSeek-R1, built using HTML, JavaScript, 
    ```sh
    cd wsp-chatbot
    ```
-3. Open `index.html` in your web browser.
+3. Open `chat.html` in your web browser.
 
 ## Usage
 1. Enter a message in the input field.
